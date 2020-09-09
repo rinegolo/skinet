@@ -14,7 +14,7 @@
     "3": "^2.1.0",
     "-": "0.0.1",
     "@angular/animations": "~10.1.0",
-    "@angular/common": "^10.1.0",
+    "@angular/common": "^4.0.0",
     "@angular/compiler": "~10.1.0",
     "@angular/core": "^10.1.0",
     "@angular/forms": "~10.1.0",
